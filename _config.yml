@@ -1,11 +1,1 @@
-# Theme configuration
-theme: minima  # Jekyll theme used for the site
 
-# Site metadata
-title: "Trasteando Pagesetup"  # Title of the site
-author: "Buhito Tecleador"  # Author's name
-description: "Esta página es el patio de recreo del Buhito :D"  # Brief description of the site
-
-# Optional settings
-baseurl: ""  # Base URL if the site is hosted in a subdirectory (e.g., /blog)
-url: ""  # The full URL of your site (e.g., https://example.com)
