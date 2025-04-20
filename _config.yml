@@ -4,4 +4,5 @@ theme: minima  # Jekyll theme used for the site
 # Site metadata
 title: "Trasteando Pagesetup"  # Title of the site
 author: "Buhito Tecleador"  # Author's name
-description: "Esta página es el patio de recreo del Buhito :D"  # Brief description of the site
+# Brief description of the site
+description: "Esta página es el patio de recreo del Buhito :D"  
